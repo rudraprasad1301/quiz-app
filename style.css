@@ -1,0 +1,44 @@
+.quiz-section{
+    height: 300px;
+    width:500px;
+    border:2px solid black;
+    margin:90px auto;
+    background-color: white;
+   
+
+}
+body{
+    background: linear-gradient(45deg,lightblue,rgb(227, 46, 227))
+}
+li{
+   list-style-type: none; 
+   height:35px;
+   width:300px;
+   border:1px solid black;
+   margin-top: 5px;
+   border-radius: 14px;
+   padding: 8px;
+   box-sizing: border-box;
+   
+}
+li input{
+    margin-top: 2px;
+}
+.btn{
+    background-color: rgb(59, 59, 239);
+    font-size: 18px;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+    border-radius: 14px;
+    height: 25px;
+    width:150px
+}
+.result{
+    height: 300px;
+    width:400px;
+    margin: 40px auto;
+    text-align: center;
+    font-size: 20px;
+
+}
